@@ -10,11 +10,10 @@ Este programa funciona como convertidor entre las monedas de quetzales, dólares
 ## Pasos para su ejecución
 1. Abrir el codigo en un IDE
 2. Abrir la terminal
-3. Compilar el codigo: gcc nombre_del_programa.c -o nombre_del_programa
-4. Ejecutar el programa: ./nombre_del_programa
+3. Compilar el codigo: `gcc conversor.c -o conversion`
+4. Ejecutar el programa: `./conversion`
 
 ## Datos del autor
-
 - Byron Monzón
 - correo: byron.monzon@galileo.edu
 - carnet: 24004317
