@@ -15,6 +15,6 @@ Este programa funciona como convertidor entre las monedas de quetzales, dólares
 
 ## Datos del autor
 
-- Byron Monzón
-- byron.monzon@gmail.com
+- Nombre: Byron Monzón
+- correo: byron.monzon@gmail.com
 - carnet: 24004317
